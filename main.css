@@ -204,6 +204,7 @@ button[type="submit"] {
 }
 
 .imagess {
+  flex-grow: 1;
   width: 14%;
 }
 
